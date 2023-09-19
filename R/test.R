@@ -1,0 +1,2 @@
+#' @export
+testpakgitbuild <- function() NULL
